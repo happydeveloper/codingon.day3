@@ -1,3 +1,4 @@
 .venv/
  opentutorials/opentutorials/__pycache__/
  opentutorials/auths/__pycache__/
+*.pyc
